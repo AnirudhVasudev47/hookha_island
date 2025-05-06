@@ -187,7 +187,6 @@ function App() {
           <div className="hero-cta">
             <a href="#lounge" className="button">Visit Us</a>
             <a href="#shop" className="button gold">Shop Now</a>
-            <a href="#contact" className="button teal">Book a Table</a>
           </div>
         </div>
       </section>
@@ -288,7 +287,6 @@ function App() {
               </div>
             </div>
 
-            <a href="#contact" className="button">Book a Table</a>
           </div>
 
           <div className="lounge-image">
@@ -403,7 +401,7 @@ function App() {
         <div className="container contact-container">
           <div className="contact-info">
             <h2>Get in <span className="accent-purple">Touch</span></h2>
-            <p>Have questions or want to make a reservation? Reach out to us!</p>
+            <p>Have questions? Reach out to us!</p>
 
             <div className="contact-details">
               <div className="contact-detail">
